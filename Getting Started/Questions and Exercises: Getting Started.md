@@ -18,9 +18,9 @@ Both modifers can come first.
 
 ## Exercises
 <h3>Exercise 1: Change the <code><a href='http://docs.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java' target='_blank'>HelloWorldApp.java</a></code> program so that it displays <code>Hola Mundo!</code> instead of <code>Hello World!</code>.</h3>
-[HelloWorldApp.class](HelloWorldApp.class)
+[HelloWorldApp.java](HelloWorldApp.java)
 
 <h3>Exercise 2: You can find a slightly modified version of <code>HelloWorldApp</code> here: <code><a href='http://docs.oracle.com/javase/tutorial/getStarted/QandE/HelloWorldApp2.java' target='_blank'>HelloWorldApp2.java</a></code><br />
 The program has an error. Fix the error so that the program successfully compiles and runs. What was the error?</h3>
-[HelloWorldApp2.class](HelloWorldApp2.class)  
+[HelloWorldApp2.java](HelloWorldApp2.java)  
 The string literal "Hello World!" is not closed.
